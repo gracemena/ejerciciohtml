@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+
+body{
+	font-family:"Roboto", sans-serif;
+	background-color: #f5f8fb;
+	
+}
+
+header{
+	padding:10px;
+}
+#hero{
+	background-image:url("../img/slider-bg-3.jpg");
+	padding:200px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+.herotitle{
+	font-size: 70px;
+}
+
+.herosubtitulos{
+	font-size: 20px;
+}
+
+#why{
+	padding:100px;
+	text-align: center;
+	 background-color:#FBFBFB;
+	
+}
+
+.whypprincipal{
+	margin-bottom: 40px;
+	margin-bottom: 40px;
+	color:#767676;
+	
+}
+.why{
+	background-color:#FFFFFF;
+	padding:60px;
+	
+}
+
+.why i{ 
+color: #74FF00;
+}
+
+.whytituloprincipal{
+	font-weight: bold;
+	font-size:30px;
+	margin-bottom: 20px;
+}
+
+
+
+.whytitulos{
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 30px;
+}
+
+.whysubtitulos{
+	color:#767676;
+	margin-top: 20px;
+}
+
+#our{
+	padding: 50px;
+	text-align: center;
+	
+}
+
+.ourpprincipal{
+	margin-bottom: 40px;
+	margin-bottom: 40px;
+	
+}
+.our{
+	background-color:#FFFFFF;
+	padding:70px;
+	
+	
+}
+.ourtitulos{
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 80px;
+}
+
+.oursubtitulos{
+	color:#767676;
+	margin-top: 20px;
+}
+
+.our{
+	padding:20px;
+}
+
+.btn{
+	background-color:#9AFF00;
+	border:none;
+	border-radius:0;
+	margin-top:20px;
+	color:#FFFFFF;
+}
